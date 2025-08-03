@@ -215,6 +215,4 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 - [ ] **WebSockets**: Comunicación en tiempo real
 - [ ] **Testing**: Jest y React Testing Library
 
----
-
 **HostMate** - Transformando la gestión de alquileres temporales con IA 🤖✨
