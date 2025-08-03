@@ -54,7 +54,7 @@ HostMate es una aplicación web moderna diseñada para propietarios de alquilere
 
    ```bash
    git clone <url-del-repositorio>
-   cd hostmate-frontend
+   cd Hostmate
    ```
 
 2. **Instala las dependencias**
